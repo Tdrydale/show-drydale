@@ -30,3 +30,9 @@ This is a table that shows actors i would rather play the main role of the movie
 | Samuel L. Jackson | Like other movies he is in | 76 |
 | Tom Hanks | Its Tom Hanks | 68 |
 | Robert Downey Jr. | Avenger movies are good | 59 |
+
+---
+
+> "Everything has its beauty, but not everyone sees it" *Helen Keller* 
+>
+>  "The best way to predict the future is to create it" *Peter Drucker*
