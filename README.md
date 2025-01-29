@@ -22,7 +22,7 @@ I like pancakes because my grandpa always made me some when I went over to his h
 
 ### Tables
 
-This is a table that shows actors i would rather play the main role of the movie step brothers.
+This is a table that shows actors I would rather play the main role of the movie Step Brothers.
 
 | Actor | Reason | Age |
 | --- | --- | --- |
@@ -36,3 +36,15 @@ This is a table that shows actors i would rather play the main role of the movie
 > "Everything has its beauty, but not everyone sees it" *Helen Keller* 
 >
 >  "The best way to predict the future is to create it" *Peter Drucker*
+
+---
+
+### Code Fencing
+
+My last 2 digits of my S number are 34 so I got Python code snippet #5, It shows some working code for using dictionaries 
+
+```
+new_dict = {k: v for k, v in sorted(d.items(), key=lambda item: item[1])} 
+```
+
+<https://code.pieces.app/collections/python>
