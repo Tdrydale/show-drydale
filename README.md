@@ -6,8 +6,12 @@ I like pancakes because my grandpa always made me some when I went over to his h
 
 ---
 
-## Places that I could visit ranked by difficulty to get there.
+### Places that I could visit ranked by difficulty to get there, Followed by best side dishes for my favorite entree. 
 
 1. Northwest Campus
 2. Work
 3. Grandparents House
+
+* Bacon
+* Eggs
+* Hashbrowns
