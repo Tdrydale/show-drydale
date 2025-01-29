@@ -17,3 +17,16 @@ I like pancakes because my grandpa always made me some when I went over to his h
 * Hashbrowns
 
 **[MyMovie](MyMovie.md)**
+
+---
+
+### Tables
+
+This is a table that shows actors i would rather play the main role of the movie step brothers.
+
+| Actor | Reason | Age |
+| --- | --- | --- |
+| Morgan Freeman | I like his voice | 87 |
+| Samuel L. Jackson | Like other movies he is in | 76 |
+| Tom Hanks | Its Tom Hanks | 68 |
+| Robert Downey Jr. | Avenger movies are good | 59 |
